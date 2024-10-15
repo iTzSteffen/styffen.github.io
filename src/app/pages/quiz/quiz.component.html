@@ -1,0 +1,38 @@
+@if(started) {
+<div class="question-box">
+  <div>
+    <h3 class="header">Quiz für Jilly</h3>
+  </div>
+  <div class="tp-wrapper">
+    <div class="tp-box" (click)="toggleFlip()" [@flipState]="flip">
+      @for (item of questions; track $index) { @if (i == item.id &&
+      counter.length !=30 ) {
+      <div class="tp-box__side tp-box__front">
+        <!-- <div>{{ item.id }}</div> -->
+        <div>{{ item.frage }}</div>
+      </div>
+      <div class="tp-box__side tp-box__back">
+        <div>{{ item.antwort }}</div>
+      </div>
+      } }
+    </div>
+  </div>
+  <div class="button-menu">
+    <button style="background-color: green" (click)="next()">gewusst</button>
+    <button (click)="again(i)">nochmal</button>
+  </div>
+  <div style="text-align: center">
+    <p>Frage {{ counter.length }} von 30</p>
+  </div>
+</div>
+} @if (!started) {
+<div class="question-box">
+  <div>
+    <h3 class="header">Quiz für Jilly</h3>
+  </div>
+  <div class="start">
+    <p>Starte das Quiz</p>
+    <button (click)="start()">Start</button>
+  </div>
+</div>
+}

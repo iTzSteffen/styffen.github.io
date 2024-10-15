@@ -1,12 +1,15 @@
-import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component, Inject } from '@angular/core';
+import { DOCUMENT } from '@angular/common';
+import { RouterLink, RouterOutlet } from '@angular/router';
+import { SectionComponent } from './components/section/section.component';
+import { MenuComponent } from './components/menu/menu.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterLink, RouterOutlet, SectionComponent, MenuComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+  styleUrl: './app.component.scss',
 })
 export class AppComponent {
   title = 'styffen.github.io';

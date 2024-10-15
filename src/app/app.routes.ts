@@ -1,3 +1,10 @@
 import { Routes } from '@angular/router';
+import { HomeComponent } from './pages/home/home.component';
+import { QuizComponent } from './pages/quiz/quiz.component';
 
-export const routes: Routes = [];
+export const routes: Routes = [
+  { path: '', redirectTo: 'quiz', pathMatch: 'full' },
+  { path: 'home', redirectTo: 'quiz', pathMatch: 'full' },
+  // { path: 'home', component: HomeComponent },
+  { path: 'quiz', component: QuizComponent },
+];

@@ -1,0 +1,29 @@
+nav {
+  background: transparent;
+  position: fixed;
+  z-index: 200;
+  margin-top: 1em;
+  width: 100%;
+}
+
+.socials {
+  display: flex;
+  justify-content: flex-start;
+  width: 10%;
+  padding-left: 1em;
+
+  div {
+    a {
+      text-decoration: none;
+      color: white;
+      font-size: 1.2em;
+      padding: 0.5em;
+      transition: 0.5s;
+
+      &:hover {
+        color: #f06292;
+        cursor: pointer;
+      }
+    }
+  }
+}

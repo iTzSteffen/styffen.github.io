@@ -1,0 +1,334 @@
+{
+  "fragen": [
+    {
+      "id": "1",
+      "frage": "Was ist die weibliche Brust (Mamma)?",
+      "optionen": [
+        "Die weibliche Brust ist ein paariges Drüsenorgan und ein sekundäres Geschlechtsmerkmal.",
+        "Die weibliche Brust ist ein Muskelgewebe, das für die Unterstützung des Skeletts sorgt.",
+        "Die weibliche Brust ist ein Teil des Herz-Kreislauf-Systems und produziert Blut.",
+        "Die weibliche Brust besteht hauptsächlich aus Fettgewebe und ist für die Atmung zuständig."
+      ],
+      "antwort": "Die weibliche Brust ist ein paariges Drüsenorgan und ein sekundäres Geschlechtsmerkmal."
+    },
+    {
+      "id": "2",
+      "frage": "Wann beginnt die embryonale Entwicklung der Brust?",
+      "optionen": [
+        "Die Entwicklung beginnt in der 4. Schwangerschaftswoche (SSW) mit der Bildung eines primitiven Milchstrangs.",
+        "Die Entwicklung beginnt nach der Geburt des Babys.",
+        "Die Entwicklung beginnt in der 20. Schwangerschaftswoche, wenn die Brustwarzen sichtbar werden.",
+        "Die Entwicklung beginnt im dritten Trimester der Schwangerschaft."
+      ],
+      "antwort": "Die Entwicklung beginnt in der 4. Schwangerschaftswoche (SSW) mit der Bildung eines primitiven Milchstrangs."
+    },
+    {
+      "id": "3",
+      "frage": "Welche Strukturen entwickeln sich zwischen der 12. und 16. SSW?",
+      "optionen": [
+        "Der Areola-Mamillen-Komplex differenziert sich, und es entstehen 15-25 Epitheläste.",
+        "Die Milchgänge beginnen sich zu verkalken und härten aus.",
+        "Die Drüsen entwickeln sich vollständig und die Brust erreicht ihre endgültige Größe.",
+        "Der Herzmuskel bildet sich in der Brust aus, um den Milchfluss zu unterstützen."
+      ],
+      "antwort": "Der Areola-Mamillen-Komplex differenziert sich, und es entstehen 15-25 Epitheläste."
+    },
+    {
+      "id": "4",
+      "frage": "Was passiert in der 32. SSW?",
+      "optionen": [
+        "Durch den Einfluss von plazentaren Sexualhormonen bilden sich Milchgänge und Aussprossungen.",
+        "Die Brust hört auf zu wachsen und verhärtet sich.",
+        "Die Brust beginnt Milch zu produzieren und der Milchfluss setzt ein.",
+        "Das Brustgewebe bildet Fettzellen, die den gesamten Drüsenbereich ersetzen."
+      ],
+      "antwort": "Durch den Einfluss von plazentaren Sexualhormonen bilden sich Milchgänge und Aussprossungen."
+    },
+    {
+      "id": "5",
+      "frage": "Was ist die Ursache für die Brustdrüsenschwellung beim Neugeborenen?",
+      "optionen": [
+        "Mütterliche Hormone, die diaplazentar übertreten, verursachen die Schwellung.",
+        "Die Schwellung wird durch das Saugen des Neugeborenen an der Brust verursacht.",
+        "Die Schwellung entsteht durch die Zufuhr von Sauerstoff über die Lunge des Babys.",
+        "Die Brustdrüsenschwellung ist auf eine Infektion nach der Geburt zurückzuführen."
+      ],
+      "antwort": "Mütterliche Hormone, die diaplazentar übertreten, verursachen die Schwellung."
+    },
+    {
+      "id": "6",
+      "frage": "Was ist die Thelarche?",
+      "optionen": [
+        "Die Thelarche ist die Entwicklung der weiblichen Brust in der Pubertät, meist zwischen 9 und 13 Jahren.",
+        "Die Thelarche ist die Entwicklung der weiblichen Brust während der Schwangerschaft.",
+        "Die Thelarche beschreibt das Schrumpfen der Brustdrüsen nach der Menopause.",
+        "Die Thelarche ist ein Begriff für den Stillprozess nach der Geburt."
+      ],
+      "antwort": "Die Thelarche ist die Entwicklung der weiblichen Brust in der Pubertät, meist zwischen 9 und 13 Jahren."
+    },
+    {
+      "id": "7",
+      "frage": "Welche Rolle spielt Östrogen bei der Brustentwicklung?",
+      "optionen": [
+        "Östrogen fördert das Wachstum der Milchgänge und die Fetteinlagerung um das Drüsengewebe.",
+        "Östrogen reduziert das Brustwachstum und führt zu einer Verkleinerung der Drüsen.",
+        "Östrogen blockiert die Milchproduktion während der Pubertät.",
+        "Östrogen sorgt für die Entstehung von Muskelgewebe in der Brust."
+      ],
+      "antwort": "Östrogen fördert das Wachstum der Milchgänge und die Fetteinlagerung um das Drüsengewebe."
+    },
+    {
+      "id": "8",
+      "frage": "Was bewirkt Progesteron in der Sekretionsphase des Menstruationszyklus?",
+      "optionen": [
+        "Progesteron führt zu Wassereinlagerungen und Gewebsauflockerung, wodurch die Brust vergrößert wird.",
+        "Progesteron verkleinert die Brust und bereitet sie auf die Menopause vor.",
+        "Progesteron bewirkt die Bildung neuer Milchgänge während des Zyklus.",
+        "Progesteron blockiert die Entwicklung von Fettzellen in der Brust."
+      ],
+      "antwort": "Progesteron führt zu Wassereinlagerungen und Gewebsauflockerung, wodurch die Brust vergrößert wird."
+    },
+    {
+      "id": "9",
+      "frage": "Wie verändert sich die Brust in der Schwangerschaft?",
+      "optionen": [
+        "Die Drüsensegmente wachsen unter Hormoneinfluss und die Brust wird größer.",
+        "Die Brust verkleinert sich, um Platz für das heranwachsende Baby zu schaffen.",
+        "Die Brust bleibt unverändert bis nach der Geburt.",
+        "Die Brustdrüsen produzieren bereits Milch ab dem ersten Trimester."
+      ],
+      "antwort": "Die Drüsensegmente wachsen unter Hormoneinfluss und die Brust wird größer."
+    },
+    {
+      "id": "10",
+      "frage": "Was sind Cooper-Ligamente?",
+      "optionen": [
+        "Bindegewebszüge, die das Drüsengewebe an der Thoraxwand verankern.",
+        "Nervenstränge, die für die Empfindlichkeit der Brustwarze zuständig sind.",
+        "Blutgefäße, die für die Versorgung der Brustdrüsen verantwortlich sind.",
+        "Muskelfasern, die das Brustgewebe bewegen."
+      ],
+      "antwort": "Bindegewebszüge, die das Drüsengewebe an der Thoraxwand verankern."
+    },
+    {
+      "id": "11",
+      "frage": "Wie wird die Brust arteriell versorgt?",
+      "optionen": [
+        "Hauptsächlich durch die A. thoracica interna (60%) und A. thoracica lateralis (30%).",
+        "Durch die A. carotis und die A. pulmonalis.",
+        "Ausschließlich durch die Aorta direkt.",
+        "Durch die A. subclavia und die A. mesenterica superior."
+      ],
+      "antwort": "Hauptsächlich durch die A. thoracica interna (60%) und A. thoracica lateralis (30%)."
+    },
+    {
+      "id": "12",
+      "frage": "Wie erfolgt der venöse Abfluss der Brust?",
+      "optionen": [
+        "Über die Vena thoracica interna, Vena thoracica lateralis und Vena intercostales.",
+        "Ausschließlich über die Vena cava inferior.",
+        "Durch die Vena jugularis und Vena saphena.",
+        "Über die Vena femoralis und Vena basilica."
+      ],
+      "antwort": "Über die Vena thoracica interna, Vena thoracica lateralis und Vena intercostales."
+    },
+    {
+      "id": "13",
+      "frage": "Wohin fließt die Lymphe der Brust?",
+      "optionen": [
+        "Hauptsächlich zu den axillären Lymphknoten, über die axilläre Abflussbahn.",
+        "Direkt in die Leber über den ductus hepaticus.",
+        "Zur Milz, um dort gefiltert zu werden.",
+        "In die Nieren über die Nierenlymphbahnen."
+      ],
+      "antwort": "Hauptsächlich zu den axillären Lymphknoten, über die axilläre Abflussbahn."
+    },
+    {
+      "id": "14",
+      "frage": "Was ist ein Lobus?",
+      "optionen": [
+        "Ein Drüsenlappen, der aus vielen Drüsenläppchen (Lobulus) besteht.",
+        "Ein Blutgefäß, das Milch durch die Brust transportiert.",
+        "Eine Muskelgruppe, die die Brustwarze bewegt.",
+        "Ein Nervenzentrum, das die Milchejektion steuert."
+      ],
+      "antwort": "Ein Drüsenlappen, der aus vielen Drüsenläppchen (Lobulus) besteht."
+    },
+    {
+      "id": "15",
+      "frage": "Was passiert in den Alveolen während der Laktation?",
+      "optionen": [
+        "Milchsynthese durch Zylinderepithelzellen (Laktozyten) und Kontraktion durch Myoepithelzellen.",
+        "Die Milch wird aus den Alveolen herausgepumpt, ohne hormonelle Steuerung.",
+        "Die Alveolen dienen nur als Speicherort für überschüssige Blutflüssigkeit.",
+        "Die Alveolen produzieren Luft für die Atmung des Kindes."
+      ],
+      "antwort": "Milchsynthese durch Zylinderepithelzellen (Laktozyten) und Kontraktion durch Myoepithelzellen."
+    },
+    {
+      "id": "16",
+      "frage": "Welche Hormone sind für die Milchbildung wichtig?",
+      "optionen": [
+        "Prolaktin und Oxytocin.",
+        "Adrenalin und Testosteron.",
+        "Insulin und Glukagon.",
+        "Dopamin und Serotonin."
+      ],
+      "antwort": "Prolaktin und Oxytocin."
+    },
+    {
+      "id": "17",
+      "frage": "Was ist der Milchbildungsreflex?",
+      "optionen": [
+        "Lecken und Saugen an der Brust stimulieren die Prolaktinfreisetzung und Milchbildung.",
+        "Das Neugeborene nimmt Luft auf, um die Milchproduktion anzuregen.",
+        "Durch das Streicheln der Brust wird der Milchbildungsprozess verhindert.",
+        "Die Milch wird automatisch gebildet, sobald die Brust berührt wird."
+      ],
+      "antwort": "Lecken und Saugen an der Brust stimulieren die Prolaktinfreisetzung und Milchbildung."
+    },
+    {
+      "id": "18",
+      "frage": "Was ist der Milchspendereflex?",
+      "optionen": [
+        "Saugen des Kindes bewirkt durch Oxytocin die Milchejektion aus den Alveolen.",
+        "Die Mutter gibt dem Kind Milch, indem sie die Brust manuell ausdrückt.",
+        "Das Baby produziert durch eigenes Saugen Milch.",
+        "Die Milch wird durch die Schwerkraft aus der Brust herausgedrückt."
+      ],
+      "antwort": "Saugen des Kindes bewirkt durch Oxytocin die Milchejektion aus den Alveolen."
+    },
+    {
+      "id": "19",
+      "frage": "Was ist die Definition des Stillens?",
+      "optionen": [
+        "Stillen ist die natürliche Säuglingsnahrung mit Muttermilch an der Brust der Mutter.",
+        "Stillen bedeutet, dass das Kind feste Nahrung zu sich nimmt.",
+        "Stillen ist der Prozess, bei dem ein Säugling Wasser erhält.",
+        "Stillen beschreibt die Gabe von Medikamenten über die Muttermilch."
+      ],
+      "antwort": "Stillen ist die natürliche Säuglingsnahrung mit Muttermilch an der Brust der Mutter."
+    },
+    {
+      "id": "20",
+      "frage": "Was versteht man unter ausschließliches Stillen?",
+      "optionen": [
+        "Der Säugling erhält nur Muttermilch und keine weiteren Flüssigkeiten außer Medikamenten.",
+        "Der Säugling bekommt sowohl Muttermilch als auch feste Nahrung.",
+        "Der Säugling erhält nur Wasser und Medikamente.",
+        "Der Säugling bekommt ausschließlich künstliche Säuglingsnahrung."
+      ],
+      "antwort": "Der Säugling erhält nur Muttermilch und keine weiteren Flüssigkeiten außer Medikamenten."
+    },
+    {
+      "id": "21",
+      "frage": "Welche positiven Effekte hat das Stillen für das Kind?",
+      "optionen": [
+        "Reduziertes Risiko für Infektionen, Diabetes, Asthma, und bessere Kieferentwicklung.",
+        "Erhöhtes Risiko für Allergien und Kieferfehlstellungen.",
+        "Reduziertes Risiko für Übergewicht, aber erhöhte Wahrscheinlichkeit von Asthma.",
+        "Erhöhtes Risiko für Infektionen und Entwicklungsstörungen."
+      ],
+      "antwort": "Reduziertes Risiko für Infektionen, Diabetes, Asthma, und bessere Kieferentwicklung."
+    },
+    {
+      "id": "22",
+      "frage": "Welche Vorteile hat das Stillen für die Mutter?",
+      "optionen": [
+        "Geringerer Blutverlust, schnellere Uterusrückbildung und geringeres Risiko für Brustkrebs.",
+        "Erhöhtes Risiko für Osteoporose und langsame Uterusrückbildung.",
+        "Schnellere Gewichtszunahme und Risiko für Brustentzündungen.",
+        "Erhöhtes Risiko für Infektionen und schlechte Wundheilung nach der Geburt."
+      ],
+      "antwort": "Geringerer Blutverlust, schnellere Uterusrückbildung und geringeres Risiko für Brustkrebs."
+    },
+    {
+      "id": "23",
+      "frage": "Wie lange empfiehlt die WHO das Stillen?",
+      "optionen": [
+        "Ausschließliches Stillen in den ersten 6 Monaten, danach Beikost und Stillen bis zum 2. Lebensjahr.",
+        "Ausschließliches Stillen für 12 Monate, danach Absetzen der Muttermilch.",
+        "Stillen sollte nach 3 Monaten beendet werden, um feste Nahrung einzuführen.",
+        "Beikost ab dem 4. Monat und vollständiges Abstillen nach 6 Monaten."
+      ],
+      "antwort": "Ausschließliches Stillen in den ersten 6 Monaten, danach Beikost und Stillen bis zum 2. Lebensjahr."
+    },
+    {
+      "id": "24",
+      "frage": "Was ist Kolostrum?",
+      "optionen": [
+        "Die erste Milch, die ab der 16. SSW bis 3 Tage nach der Geburt gebildet wird.",
+        "Eine fettarme Flüssigkeit, die nach der Geburt für 3 Monate produziert wird.",
+        "Eine Flüssigkeit, die ausschließlich während der Schwangerschaft produziert wird und danach stoppt.",
+        "Die erste Milch, die nach einem Jahr Stillzeit gebildet wird."
+      ],
+      "antwort": "Die erste Milch, die ab der 16. SSW bis 3 Tage nach der Geburt gebildet wird."
+    },
+    {
+      "id": "25",
+      "frage": "Welche Zusammensetzung hat reife Muttermilch?",
+      "optionen": [
+        "Sie besteht zu 87% aus Wasser, mit hohem Fett- und Kohlenhydratanteil.",
+        "Sie besteht hauptsächlich aus Proteinen und Ballaststoffen.",
+        "Muttermilch enthält nur Fett und Proteine, ohne Kohlenhydrate.",
+        "Muttermilch besteht zu 50% aus Wasser, der Rest sind Proteine."
+      ],
+      "antwort": "Sie besteht zu 87% aus Wasser, mit hohem Fett- und Kohlenhydratanteil."
+    },
+    {
+      "id": "26",
+      "frage": "Wie lange kann Muttermilch bei Raumtemperatur aufbewahrt werden?",
+      "optionen": [
+        "Maximal 4-6 Stunden bei Temperaturen von 16-29°C.",
+        "Bis zu 24 Stunden bei Zimmertemperatur ohne Verderben.",
+        "Nur 1 Stunde, danach wird die Milch ungenießbar.",
+        "Bis zu 48 Stunden bei Temperaturen über 30°C."
+      ],
+      "antwort": "Maximal 4-6 Stunden bei Temperaturen von 16-29°C."
+    },
+    {
+      "id": "27",
+      "frage": "Was sind frühe Hungerzeichen bei Babys?",
+      "optionen": [
+        "Unruhig werden, Mund öffnen und den Kopf drehen.",
+        "Weinen, schreien und hektische Bewegungen.",
+        "Lächeln und ruhige Bewegungen mit den Armen.",
+        "Tiefer Schlaf und ruhiges Atmen."
+      ],
+      "antwort": "Unruhig werden, Mund öffnen und den Kopf drehen."
+    },
+    {
+      "id": "28",
+      "frage": "Was sind mittlere Hungerzeichen?",
+      "optionen": [
+        "Strecken, erhöhte Bewegung und Hand zum Mund führen.",
+        "Tiefer Schlaf und ruhiges Atmen.",
+        "Leises Weinen und gelegentliches Niesen.",
+        "Augen schließen und Körper entspannen."
+      ],
+      "antwort": "Strecken, erhöhte Bewegung und Hand zum Mund führen."
+    },
+    {
+      "id": "29",
+      "frage": "Wie sollte das Baby korrekt angelegt werden?",
+      "optionen": [
+        "Bauch zu Bauch, mit komplett geöffnetem Mund, sodass die Brustwarze tief im Mund liegt.",
+        "Das Baby sollte seitlich liegen, und nur die Brustspitze sollte im Mund sein.",
+        "Das Baby muss nur mit den Lippen an der Brustwarze saugen.",
+        "Bauch zu Rücken, um den Nacken des Babys zu entlasten."
+      ],
+      "antwort": "Bauch zu Bauch, mit komplett geöffnetem Mund, sodass die Brustwarze tief im Mund liegt."
+    },
+    {
+      "id": "30",
+      "frage": "Was fördert das Saugen des Babys?",
+      "optionen": [
+        "Kieferentwicklung, bessere Mundmuskulatur und Intelligenz.",
+        "Erhöhtes Schlafbedürfnis und langsamere Sprachentwicklung.",
+        "Verzögerung des Wachstums und geringere Immunabwehr.",
+        "Vergrößerung der Zunge und des Kehlkopfes."
+      ],
+      "antwort": "Kieferentwicklung, bessere Mundmuskulatur und Intelligenz."
+    }
+  ]
+}
