@@ -1,0 +1,25 @@
+<div class="login-container">
+  <h3>Login</h3>
+  <div class="login-input">
+    <form>
+      <label for="email">Email</label>
+      <input
+        type="email"
+        placeholder="e.g. john@doe.com"
+        [(ngModel)]="email"
+        name="email"
+      />
+      <label for="">Password</label>
+      <input
+        type="password"
+        placeholder="your password"
+        [(ngModel)]="password"
+        name="password"
+      />
+    </form>
+  </div>
+  <div class="login-buttons">
+    <button routerLink="/register">Need Account? Register</button>
+    <button (click)="login()">Login</button>
+  </div>
+</div>

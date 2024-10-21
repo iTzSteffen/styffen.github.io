@@ -1,5 +1,5 @@
 import { Component, inject } from '@angular/core';
-import { DbService } from '../../services/db.service';
+import { FirestoreService } from '../../services/firestore.service';
 import { CommonModule } from '@angular/common';
 import {
   animate,
@@ -36,9 +36,12 @@ import {
 })
 export class QuizComponent {
   constructor() {
-    this.dbService.getQuestions().subscribe((data: any) => {
+    this.firestoreService.getQuestions().subscribe((data: any) => {
+      console.log('data', data);
       this.questions = data;
     });
+
+    this.flip = 'inactive';
 
     this.i = this.getRandomUniqueNumber();
     this.counter.push(this.i);
@@ -47,7 +50,7 @@ export class QuizComponent {
   started: boolean = false;
   answer: any;
   score: any = 0;
-  dbService = inject(DbService);
+  firestoreService = inject(FirestoreService);
   questions!: any[];
   i!: number;
   counter: number[] = [];
@@ -94,16 +97,17 @@ export class QuizComponent {
 
     this.counter.push(id);
     this.i = id; // Update this.i to the new id
+    if (this.flip === 'active') {
+      this.toggleFlip();
+    }
   }
 
   again(itemId: number) {
     console.log('again', itemId);
     this.counter.splice(this.counter.indexOf(itemId), 1);
+    if (this.flip === 'inactive') {
+      this.toggleFlip();
+    }
     this.next();
   }
-
-  // again(itemId: number) {
-  //   this.counter.splice(this.counter.indexOf(itemId), 1);
-  //   this.next(itemId);
-  // }
 }

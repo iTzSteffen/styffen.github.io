@@ -11,8 +11,16 @@ export class DbService {
 
   httpClient = inject(HttpClient);
   baseUrl = 'http://localhost:3000';
+  url = 'https://steffen1205.github.io/json-hosting/db.json';
 
   getQuestions() {
+    // console.log('github', this.url);
+    // fetch(this.url).then((response) => {
+    //   response.json().then((data) => {
+    //     console.log(data);
+    //     return data;
+    //   });
+    // });
     return this.httpClient.get(`${this.baseUrl}/fragen`);
   }
 }

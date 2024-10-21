@@ -6,7 +6,7 @@
   <div class="tp-wrapper">
     <div class="tp-box" (click)="toggleFlip()" [@flipState]="flip">
       @for (item of questions; track $index) { @if (i == item.id &&
-      counter.length !=30 ) {
+      counter.length != questions.length ) {
       <div class="tp-box__side tp-box__front">
         <!-- <div>{{ item.id }}</div> -->
         <div>{{ item.frage }}</div>
@@ -18,12 +18,12 @@
     </div>
   </div>
   <div class="button-menu">
-    <button style="background-color: green" (click)="next()">gewusst</button>
-    <button (click)="again(i)">nochmal</button>
-  </div>
-  <div style="text-align: center">
     <p>Frage {{ counter.length }} von 30</p>
+    <button style="background-color: green" (click)="next()">gewusst</button>
+    <button style="background-color: red" (click)="again(i)">nochmal</button>
+    <button (click)="restart()">Neu starten</button>
   </div>
+  <div style="text-align: center"></div>
 </div>
 } @if (!started) {
 <div class="question-box">

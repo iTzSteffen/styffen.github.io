@@ -6,6 +6,27 @@ nav {
   width: 100%;
 }
 
+.socials-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  div {
+    padding-right: 1em;
+    a {
+      text-decoration: none;
+      color: white;
+      font-size: 1.2em;
+      padding: 0.5em;
+      transition: 0.5s;
+
+      &:hover {
+        color: #f06292;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
 .socials {
   display: flex;
   justify-content: flex-start;
@@ -26,4 +47,15 @@ nav {
       }
     }
   }
+}
+
+button {
+  background: #23262d;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: all 0.3s;
 }

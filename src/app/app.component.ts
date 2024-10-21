@@ -1,9 +1,7 @@
 import { Component, Inject } from '@angular/core';
-import { DOCUMENT } from '@angular/common';
 import { RouterLink, RouterOutlet } from '@angular/router';
 import { SectionComponent } from './components/section/section.component';
 import { MenuComponent } from './components/menu/menu.component';
-
 @Component({
   selector: 'app-root',
   standalone: true,
